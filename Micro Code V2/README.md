@@ -1,6 +1,6 @@
 #                                                              Micro Code
-###                                                  2018 Edition Terms & Condition
-#####                                                          Version 1
+###                                                  2019 Edition Terms & Condition
+#####                                                          Version 2
 #####                                                       النسخة الثانية 
 
 * المسابقة برعاية المكتبة الرئيسية للمطالعة العمومية جمال الدين بن سعد بالجلفة
