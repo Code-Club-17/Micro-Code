@@ -1,0 +1,10 @@
+###########################################################################################################
+### your problem here is to find the encryption key (int) and then to decryption text (string)
+### Steps of Solution: 
+###              -1) Find the encryption key (int)    ايجاد مفتاح التشفير 
+###              -2) decryption text (text)           بعد ايجاد مفتاح التشفير قم بفك تشفير النص في الاسفل
+############################################################################################################
+### this is word expected in the finale text(decrypted) :
+"black"
+### this is the text encrypted :
+"dtmbx uhnftg bl vhfinmxk lvbxgmblm atl xtkgxw ietnwbml phkewpbwx yhk axeibgz wxoxehi max tezhkbmaf matm vkxtmxw max ybklm xoxk bftzx hy t uetvd ahex"
