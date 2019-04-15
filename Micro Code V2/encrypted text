@@ -1,6 +1,6 @@
 ### this just for task3 
 ###########################################################################################################
-### your problem here is to find the encryption key (int) and then to decryption text (string)
+### your problem here is to find the encryption key (int) and then to decryption text
 ### Steps of Solution: 
 ###              -1) Find the encryption key (int)    ايجاد مفتاح التشفير 
 ###              -2) decryption text (text)           بعد ايجاد مفتاح التشفير قم بفك تشفير النص في الاسفل
