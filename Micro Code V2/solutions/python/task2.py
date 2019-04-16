@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+#this for task2 
+#here in text you can input any letter(abd...,ABC....) or number(012....) or symbol(@&"().....) like 
+#
 
 
 import string as str
